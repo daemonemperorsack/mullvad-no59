@@ -1,4 +1,4 @@
-
+high-speed Mullvad Extension | geo-unblocking + obfuscation is the best Mullvad extension, featuring geo-unblocking and obfuscation. Secure, fast, and optimized for privacy.
 
 
 
